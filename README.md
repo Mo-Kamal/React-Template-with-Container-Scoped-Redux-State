@@ -34,6 +34,7 @@ This is a React template built with Vite and TypeScript that comes preconfigured
 
 ## Project Structure
 
+```
 src/
 ├── assets/ # Images and static assets
 ├── components/ # Global components (e.g., buttons, selects)
@@ -51,6 +52,7 @@ src/
 ├── routes/ # Application routes configuration
 ├── lazy-load/ # Custom lazy loading utility
 └── styles/ # Global theme configuration (theme-config.ts)
+```
 
 ## Container-Scoped Redux State Architecture
 
