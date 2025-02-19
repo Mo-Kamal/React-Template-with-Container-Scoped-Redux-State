@@ -1,0 +1,18 @@
+{
+  "React_Template": "React Template",
+  "React_Template_Description": "A create-react-app template, using redux saga & toolkit.",
+  "Use_Template": "Use Template",
+  "Features": "Features",
+  "Vite": "Vite",
+  "Vite_Description": "Experience blazing fast builds and hot module replacement with Vite for a smooth development workflow.",
+  "Redux_Toolkit": "Redux Toolkit",
+  "Redux_Toolkit_Description": "Simplify state management with Redux Toolkit, which provides a clean and efficient way to manage global state.",
+  "Redux_Saga": "Redux Saga",
+  "Redux_Saga_Description": "Handle side effects and asynchronous actions effortlessly with Redux Saga for more predictable state updates.",
+  "MUI": "Material UI",
+  "MUI_Description": "Build beautiful and responsive UIs quickly with Material UI, a popular React component library.",
+  "React_I18next": "React i18next",
+  "React_I18next_Ddescription": "Add multilingual support to your app with react-i18next for seamless internationalization and localization.",
+  "Dark_Light_Mode": "Dark & Light Mode",
+  "Dark_Light_Mode_Description": "Enhance user experience with a toggleable dark and light mode for better accessibility and aesthetics."
+}
